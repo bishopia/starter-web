@@ -16,6 +16,8 @@ This is a simple...
 
 ## How to Contribute
 
+Please fork repos
+
 ## Copyright
 
 2014 Git.Training
